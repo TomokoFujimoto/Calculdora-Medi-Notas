@@ -1,0 +1,27 @@
+h1{
+  margin-top: 50px;
+  font-size: 300%;
+  text-align: center;
+  color: rgb(3, 211, 124);
+}
+
+h2{
+  text-align: center;
+  font-size: 180%;
+  color: rgb(235, 231, 1);
+} 
+.page-logo{
+  width: 150px;
+  position: absolute;
+    top: 0px;
+    right: 0px;
+}
+body{
+  background-color: #e96ed8f5;
+}
+.alura-logo{
+  width: 60px;
+  position: absolute;
+    top: 0px;
+    left: 0px;
+}
